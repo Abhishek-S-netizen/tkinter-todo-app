@@ -28,15 +28,18 @@ This project allows users to manage daily tasks through a clean graphical interf
 ---
 
 ## Screenshots
-
-Add screenshots here after uploading them.
-
-Example:
-
-![Home Screen](images/home.png)
+![App](images/app.png)
 
 ---
+![Adding Tasks](images/add_task.png)
 
+---
+![Updating Tasks](images/update_task.png)
+
+---
+![Mark Completed](images/mark_completed.png)
+
+---
 ## Future Improvements
 
 - Save tasks to a file/database
