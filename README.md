@@ -1,4 +1,4 @@
-# 📝 Tkinter To-Do List
+# Tkinter To-Do List
 
 A simple desktop To-Do List application built using Python and Tkinter.
 
